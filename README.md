@@ -5,7 +5,7 @@ Senior iOS Software Engineer
 * 🌍  I'm based in Belarus, Minsk 
 * * 🚀  I'm currently working on [BP Mobile](http://https://bpmobile.by/)
 
-* * Previously worked at:
+### Previously worked at:
 *   [MyNetDiary](https://www.mynetdiary.com/)
 *   [EPAM Systems](https://www.epam.com/)
 
